@@ -46,7 +46,7 @@ For detailed code implementation and usage examples, refer to the `main.ipynb` f
 
 Feel free to reach out if you have any questions or need further assistance. You can connect with us through the following channels:
 
-- **Telegram:** [Link to Telegram](Link_to_Telegram)
-- **Facebook:** [Link to Facebook](Link_to_Facebook)
+- **Telegram:** [Mustafa Mohammad](https://t.me/ha12qw)
+- **Facebook:** [Mustafa Mohammad](Link_to_Facebook)
 
 Now you're ready to explore and develop your own State of the Union Speech AI Chatbot! Happy coding!
