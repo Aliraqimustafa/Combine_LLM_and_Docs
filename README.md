@@ -53,5 +53,5 @@ Now you're ready to explore and develop your own State of the Union Speech AI Ch
 
 Behind the Scenes:
 
-1. [Image One - Data Flow](https://raw.githubusercontent.com/Aliraqimustafa/Combine_LLM_and_Docs/main/img/data_connection-c42d68c3d092b85f50d08d4cc171fc25.jpg)
-2. [Image Two - Interaction Flow](https://raw.githubusercontent.com/Aliraqimustafa/Combine_LLM_and_Docs/main/img/deci-langchain-rag-featured.png)
+1. ![Image One - Data Flow](https://raw.githubusercontent.com/Aliraqimustafa/Combine_LLM_and_Docs/main/img/data_connection-c42d68c3d092b85f50d08d4cc171fc25.jpg)
+2. ![Image Two - Interaction Flow](https://raw.githubusercontent.com/Aliraqimustafa/Combine_LLM_and_Docs/main/img/deci-langchain-rag-featured.png)
