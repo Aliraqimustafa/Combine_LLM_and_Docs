@@ -47,6 +47,11 @@ For detailed code implementation and usage examples, refer to the `main.ipynb` f
 Feel free to reach out if you have any questions or need further assistance. You can connect with us through the following channels:
 
 - **Telegram:** [Mustafa Mohammad](https://t.me/ha12qw)
-- **Facebook:** [Mustafa Mohammad](Link_to_Facebook)
+- **Facebook:** [Mustafa Mohammad](https://www.facebook.com/100049592914479)
 
 Now you're ready to explore and develop your own State of the Union Speech AI Chatbot! Happy coding!
+
+Behind the Scenes:
+
+1. [Image One - Data Flow](https://raw.githubusercontent.com/Aliraqimustafa/Combine_LLM_and_Docs/main/img/data_connection-c42d68c3d092b85f50d08d4cc171fc25.jpg)
+2. [Image Two - Interaction Flow](https://raw.githubusercontent.com/Aliraqimustafa/Combine_LLM_and_Docs/main/img/deci-langchain-rag-featured.png)
